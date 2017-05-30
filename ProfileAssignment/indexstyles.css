@@ -1,0 +1,33 @@
+.title{
+    color: #f3edff;
+    font-size: 40px;
+    font-family: Cambria, Georgia, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.paragraphfont{
+    color: #fef6ff;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: "Buxton sketch", sans-serif;
+}
+.photocaptions{
+    color: black;
+    font-size: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: normal;
+}
+.citations{
+    color: #ffffff;
+    font-size: 13px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+.homeBackgroundImage {
+    background: url("images/pics/homebackground.jpg");
+    background-color: black;
+    background-size: 1550px 780px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

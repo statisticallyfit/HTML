@@ -1,0 +1,28 @@
+.title{
+    color: black;
+    font-size: 40px;
+    font-family: Cambria, Georgia, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.paragraphfont{
+    color: #69307f;
+    font-size: 23px;
+    font-weight: normal;
+    font-family: "Buxton sketch", sans-serif;
+}
+.photocaptions{
+    color: black;
+    font-size: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: normal;
+}
+.citations{
+    color: #080509;
+    font-size: 15px;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: bold;
+}
+.backgroundColor{
+    background-color: #fef6ff;
+}
